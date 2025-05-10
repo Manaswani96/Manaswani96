@@ -31,9 +31,9 @@ Environments:     Terminal over GUI, Always.
 ```
 
 ## 🧲 Admiring Minds
--Feynman — Playful, precise, profoundly curious
--Einstein — Dreaming with equations
--Tesla — Inventing futures
+-Feynman:Playful, precise, profoundly curious
+-Einstein:Dreaming with equations
+-Tesla:Inventing futures
 …then we're already friends in some entangled dimension.
 
 If you're here to collaborate, discuss research, or build something meaningful, I'm all ears.
