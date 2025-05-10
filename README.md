@@ -1,15 +1,10 @@
 # Hey, I'm Manaswani 👋
 
 > _“What I cannot create, I do not understand.”_ – Richard Feynman  
-> _“Reality is merely an illusion, albeit a very persistent one.”_ – Albert Einstein  
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Manaswani96&color=blueviolet&style=flat)
-![Followers](https://img.shields.io/github/followers/Manaswani96?label=Follow%20Me&style=social)
-![Repos](https://img.shields.io/github/repo-search?style=social&q=user%3AManaswani96)
 
----
 
 ## 🧠 Who Am I?
 
@@ -27,7 +22,7 @@ Part engineer, part philosopher, part explorer.
 
 ## 🛠️ Tech Stack
 
-```bash
+
 Languages:        Python 🐍 | C ⚙️ | Java ☕
 Research Tools:   MATLAB 🔬 | LaTeX 📄 | Obsidian 🧠
 Platforms:        Arch Linux (btw) 🧊 | Ubuntu 🐧
