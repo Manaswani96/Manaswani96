@@ -8,7 +8,7 @@
 
 ## 🧠 Who Am I?
 
-I'm a curious blend of code and cosmos —  
+I'm a curious blend of code and cosmos,
 An **AI/ML enthusiast** with a heart wired for **quantum curiosity**.  
 Part engineer, part philosopher, part explorer.
 
