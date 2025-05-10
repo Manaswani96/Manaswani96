@@ -22,14 +22,13 @@ Part engineer, part philosopher, part explorer.
 
 ## 🛠️ Tech Stack
 
-
+```bash
 Languages:        Python 🐍 | C ⚙️ | Java ☕
 Research Tools:   MATLAB 🔬 | LaTeX 📄 | Obsidian 🧠
 Platforms:        Arch Linux (btw) 🧊 | Ubuntu 🐧
 Backends:         Firebase 🌩️ | + some secret sauce I brew myself
 Environments:     Terminal over GUI, Always.
----
-
+```
 
 ## 🧲 Admiring Minds
 -Feynman — Playful, precise, profoundly curious
